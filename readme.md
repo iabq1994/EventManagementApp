@@ -1,0 +1,1 @@
+EventManagementApp is a comprehensive solution for planning and managing events of all sizes, providing features like ticketing, registration, event promotion, and attendee management.

@@ -1,0 +1,26 @@
+{
+"name": "eve2ntme65nt",
+"version": "1.0.0",
+"description": "EventManagementApp is a comprehensive solution for planning",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/iabq1994/EventManagementApp.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "iabq1994",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
